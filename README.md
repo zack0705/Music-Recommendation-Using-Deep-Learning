@@ -1,6 +1,12 @@
 # Music Recommendation Using Deep Learning
 
-Music Recommendation using latent feature vectors obtained from a network trained on the Free Music Archive dataset.
+Music Recommendation using latent feature vectors obtained from a network trained on the Free Music Archive dataset. I tried to optimize this code by changing kernel sizes and adding padding in convolution layers. The results of which are shown in the table below:
+![out1](https://github.com/zack0705/Music-Recommendation-Using-Deep-Learning/blob/master/Images/out1.png)
+![out2](https://github.com/zack0705/Music-Recommendation-Using-Deep-Learning/blob/master/Images/out2.png)
+
+This model was also used to compare results by using songs from different Spotify playlists.  
+![out3](https://github.com/zack0705/Music-Recommendation-Using-Deep-Learning/blob/master/Images/out3.png)
+![out4](https://github.com/zack0705/Music-Recommendation-Using-Deep-Learning/blob/master/Images/out4.png)
 
 ## Overview
 
